@@ -1,0 +1,14 @@
+{
+  "author": "HologramAgent",
+  "description": "待办与备忘录插件。待办（todo_add/todo_complete/todo_list）会主动提醒；备忘录（memo_create/memo_list/memo_delete）纯记事不提醒。",
+  "entry": "plugin.bin",
+  "name": "memo",
+  "name_en": "Memo",
+  "name_zh": "备忘录",
+  "tags": [
+    "memo",
+    "todo",
+    "notes"
+  ],
+  "version": "1.1.0"
+}
